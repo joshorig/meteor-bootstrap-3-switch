@@ -3,7 +3,7 @@
     "description": "Bootstrap 3 switch buttons",
     "homepage": "https://github.com/joshorig/meteor-bootstrap-3-switch",
     "author": "Joshua Cassidy (http://bubblegumgroup.com)",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "git": "https://github.com/joshorig/meteor-bootstrap-3-switch.git",
     "packages": {
     	"bootstrap-3": {}
