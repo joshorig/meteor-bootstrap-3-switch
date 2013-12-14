@@ -1,0 +1,8 @@
+{
+    "name": "bootstrap-3-switch",
+    "description": "Bootstrap 3 switch buttons",
+    "homepage": "https://github.com/joshorig/meteor-bootstrap-3-switch",
+    "author": "Joshua Cassidy (http://bubblegumgroup.com)",
+    "version": "0.0.1",
+    "git": "https://github.com/joshorig/meteor-bootstrap-3-switch.git"
+}
