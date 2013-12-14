@@ -7,7 +7,7 @@ It is basically [Tim Heckels meteor-bootstrap-switch](https://github.com/TimHeck
 ##How to use?
 
 1. Install [meteorite](https://github.com/oortcloud/meteorite)
-2. `mrt install bootstrap-3-switch`
+2. `mrt add bootstrap-3-switch`
 
 Unlike the original documentation, you must invoke the switches in your appropriate `Template.name.rendered` callback:
 
